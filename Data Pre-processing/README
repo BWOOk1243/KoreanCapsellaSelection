@@ -1,1 +1,9 @@
+## Climate_Info.csv ## 9 Populations;
+# Year, Month, 
+# LTT (Latitude), LGT (Longitude), ALT (Elevation),
+# MT (Monthly Mean Temperature), MHT (Monthly Highest Temperature), MLT (Monthly Lowest Temperature), HT (Highest Temperature), LT (Lowest Temperature), SMP (Sum of Monthly Precipitation),
+# Pop (Populations; BOP, DGR, MZS, TAB, JCH, JSN, NWS, DMY, ICH)
+# Altitudes (Altitudinal groups; HIGH > 700, 400 > MID > 300, 100 > LOW)
 
+# Input: Climate_Info.csv
+# 
